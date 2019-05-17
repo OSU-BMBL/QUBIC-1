@@ -1,18 +1,18 @@
-QUBIC
-=====
+# QUBIC
+
 
 [![Build Status](https://travis-ci.org/zy26/QUBIC.svg?branch=devel)](https://travis-ci.org/zy26/QUBIC)
 
 Authors: [Yu Zhang](mailto:zy26@jlu.edu.cn) and [Qin Ma](mailto:qin.ma@sdstate.edu)
 
-Desription
-------------
+## Desription
+
 QUBIC is recognized as one of the best biclustering methods in terms of its efficiency and effetiveness in biological data interpretion. This package provides an R implementation of the QUBIC algorithm, with significantly improved efficiency and comprehensive functions. 
 
 **Citing us:** Yu Zhang, Juan Xie, Jinyu Yang, Anne Fennell, Chi Zhang, Qin Ma; QUBIC: abioconductor package for qualitative biclustering analysis of gene co-expressiondata. *Bioinformatics*, 2017; 33 (3): 450-452. doi: 10.1093/bioinformatics/btw635
 
-Installation
-------------
+# Installation
+
 
 Please follow the instructions mentioned in the URL: http://bioconductor.org/packages/QUBIC
 
@@ -37,6 +37,12 @@ install.packages("qgraph")
 install.packages("RcolorBrewer")
 ```
 
-Vignette
-------------
+## Vignette
+
 You can find the tutorial for QUBIC at https://bioconductor.org/packages/release/bioc/vignettes/QUBIC/inst/doc/qubic_vignette.pdf
+
+
+## Contact ##
+
+Any questions, problems, bugs are welcome and should be dumped to
+Qin Ma <Qin.Ma@osumc.edu>
