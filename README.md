@@ -1,4 +1,4 @@
-# QUBIC
+# QUBIC: Qualitative BIClustering algorithm #
 
 
 [![Build Status](https://travis-ci.org/zy26/QUBIC.svg?branch=devel)](https://travis-ci.org/zy26/QUBIC)
