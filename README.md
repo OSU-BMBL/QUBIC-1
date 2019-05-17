@@ -9,7 +9,7 @@ Desription
 ------------
 QUBIC is recognized as one of the best biclustering methods in terms of its efficiency and effetiveness in biological data interpretion. This package provides an R implementation of the QUBIC algorithm, with significantly improved efficiency and comprehensive functions. 
 
-**Citing us:** Yu Zhang, Juan Xie, Jinyu Yang, Anne Fennell, Chi Zhang, Qin Ma; QUBIC: abioconductor package for qualitative biclustering analysis of gene co-expressiondata. Bioinformatics, 2017; 33 (3): 450-452. doi: 10.1093/bioinformatics/btw635
+**Citing us:** Yu Zhang, Juan Xie, Jinyu Yang, Anne Fennell, Chi Zhang, Qin Ma; QUBIC: abioconductor package for qualitative biclustering analysis of gene co-expressiondata. *Bioinformatics*, 2017; 33 (3): 450-452. doi: 10.1093/bioinformatics/btw635
 
 Installation
 ------------
